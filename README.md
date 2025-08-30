@@ -14,7 +14,7 @@
 
 ## 🏆 Featured Projects
 
-- [soam](https://github.com/vladtf/soam): A flagship project focused on scalable orchestration and automation.  
+- [soam](https://github.com/vladtf/soam): SOAM is a smart-city data platform that ingests heterogeneous sensor streams, normalizes data against an ontology, and provides analytics and observability.
 - [containerization-tool](https://github.com/vladtf/containerization-tool): Tools for containerizing and deploying modern applications.
 
 ---
