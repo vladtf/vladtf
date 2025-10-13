@@ -19,14 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Vladtf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladtf&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladtf&layout=compact&hide=html&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/vladislav-tiftilov-ba9403208/)
