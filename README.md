@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladislav Tiftilov (vladtf)
 
-**SWE2 @ Microsoft** | Debugging Enthusiast
+**SWE2 @ Microsoft**
 
 ---
 
