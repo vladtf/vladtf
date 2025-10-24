@@ -1,30 +1,15 @@
-# 👋 Hi, I'm Vladislav Tiftilov (vladtf)
+# 👋 Hi, I'm Vladislav
 
-**SWE2 @ Microsoft**
+**Software Engineer @ Microsoft**
 
----
+Building reliable, scalable systems with **Java** • **Python** • **Kubernetes** • **React**
 
-## 🚀 About Me
+## 🏗️ Featured Projects
 
-- 🌐 I’m a Software Engineer at Microsoft, passionate about building reliable and maintainable solutions.
-- 🛠️ **Languages & Tech:** Java, Python, Docker, Kubernetes, React
-- 🐞 I love debugging code – making sure it works perfectly and is easy to troubleshoot.
+**[soam](https://github.com/vladtf/soam)** — Smart city IoT platform with real-time sensor data processing and AI-powered analytics
 
----
+**[containerization-tool](https://github.com/vladtf/containerization-tool)** — Tools for containerizing and deploying modern applications
 
-## 🏆 Featured Projects
+## 📫 Let's Connect
 
-- [soam](https://github.com/vladtf/soam): SOAM is a smart-city data platform that ingests heterogeneous sensor streams, normalizes data against an ontology, and provides analytics and observability.
-- [containerization-tool](https://github.com/vladtf/containerization-tool): Tools for containerizing and deploying modern applications.
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/vladislav-tiftilov-ba9403208/)
-
----
-
-<!--
-Tip: You can tweak stats themes, add badges, or include more sections!
--->
+[LinkedIn](https://www.linkedin.com/in/vladislav-tiftilov-ba9403208/)
