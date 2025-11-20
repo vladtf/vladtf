@@ -6,6 +6,6 @@ Building reliable, scalable systems with **Java** • **Python** • **Kubernete
 
 ## Featured Projects
 
-**[soam](https://github.com/vladtf/soam)** — Smart city IoT platform with real-time sensor data processing and AI-powered analytics
+**[soam](https://github.com/vladtf/soam)** - Smart city IoT platform with real-time sensor data processing and AI-powered analytics
 
-**[containerization-tool](https://github.com/vladtf/containerization-tool)** — Tools for containerizing and deploying modern applications
+**[containerization-tool](https://github.com/vladtf/containerization-tool)** - Tools for containerizing and deploying modern applications
